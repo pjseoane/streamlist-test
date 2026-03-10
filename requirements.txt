@@ -1,1 +1,3 @@
 streamlit>=1.35.0
+plotly
+git+ssh://git@github.com/pjseoane/pjs_qlab.git
