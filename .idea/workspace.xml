@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8d402b-9b88-45ec-9825-90d8fe45ce62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/streamlit-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/streamlit-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fd8d402b-9b88-45ec-9825-90d8fe45ce62" name="Changes" comment="1st comit">
       <change beforePath="$PROJECT_DIR$/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -94,10 +90,23 @@
       <updated>1773140792682</updated>
       <workItem from="1773140793729" duration="545000" />
     </task>
+    <task id="LOCAL-00001" summary="1st comit">
+      <option name="closed" value="true" />
+      <created>1773186196452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773186196452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st comit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

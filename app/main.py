@@ -5,7 +5,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import timedelta,datetime
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 from pjs_qlab.data.YahooPriceFetcher import YahooPriceFetcher as price_fetcher
 from pjs_qlab.analytics.cQuantClass import cQuantClass as cQuant
 
