@@ -2,4 +2,5 @@ streamlit>=1.35.0
 plotly
 
 #git+ssh://git@github.com/pjseoane/pjs_qlab.git
-git+https://github.com/pjseoane/pjs_qlab.git
+#git+https://github.com/pjseoane/pjs_qlab.git
+libs/pjs_qlab-0.2.1-py3-none-any.whl
