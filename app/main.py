@@ -73,7 +73,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("📈 Investment Ideas Quant Lab")
+st.title("📈 Investment Ideas Quant Lab 2.1")
 st.caption("Powered by yfinance · Data from Yahoo Finance")
 
 with st.sidebar:
